@@ -20,5 +20,4 @@ class Choice(models.Model):
         return self.choice_text
     
 
-#깃 연습용 주석 추가
-#깃 연습용 주석 추가 !!!
+
